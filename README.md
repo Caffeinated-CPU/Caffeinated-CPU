@@ -43,13 +43,6 @@ I thrive on optimizing system architectures, writing deterministic code, and bui
   * Trained a Physics-Informed Neural Network (PINN) across 20,000 collocation points using physics-based loss functions as supervision, achieving an MSE of 0.014 without massive training datasets.
   * Coupled CasADi-based symbolic modeling with the PINN surrogate model to realize a 13.29% increase in target product yield within strict safety bounds.
 
----
-
-## 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=piloting-your-mom&show_icons=true&theme=radical" alt="Nayan's GitHub Stats" />
-</p>
 
 ---
 
