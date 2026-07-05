@@ -56,4 +56,4 @@ I thrive on optimizing system architectures, writing deterministic code, and bui
 ## 📫 Let's Connect!
 
 * **Email:** [nayan.daryani@iitgn.ac.in](mailto:nayan.daryani@iitgn.ac.in)
-* **LinkedIn:** [Your LinkedIn Profile URL Link Here]
+* **LinkedIn:** [www.linkedin.com/in/nayan-daryani](https://www.linkedin.com/in/nayan-daryani-599800173/)
