@@ -1,6 +1,6 @@
 # Hi there, I'm Nayan Daryani! 👋
 
-I am a **Chemical Engineering Undergraduate at IIT Gandhinagar** shifting gears into high-performance software engineering. My expertise bridges the gap between deep mathematical modeling (like **Physics-Informed Neural Networks**) and production-ready applications spanning **Asynchronous Backend Systems, Mobile Frameworks, and Responsive Frontends**.
+I am a **Engineering Undergraduate at IIT Gandhinagar** shifting gears into high-performance software engineering. My expertise bridges the gap between deep mathematical modeling (like **Physics-Informed Neural Networks**) and production-ready applications spanning **Asynchronous Backend Systems, Mobile Frameworks, and Responsive Frontends**.
 
 I thrive on optimizing system architectures, writing deterministic code, and building things that scale under pressure.
 
